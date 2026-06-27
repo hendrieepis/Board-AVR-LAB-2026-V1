@@ -521,23 +521,23 @@ Setelah submit, **tag Gerber file** dengan versi (misal `ExpansionBoard-V1.0-Ger
 
 ## Release
 
-Varian 1
+VersiA
 
 ![Top3D](./assets/Top3D.png)
 
-- KICAD ->    [Kicad](KelasA\Kicad) 
+- KICAD ->    [versiA](versiA) 
 
-- Gerver     ->  [PCB-gerber](KelasA\PCB-gerber) 
+- Gerver->  [gerber.zip](versiA\gerber.zip) 
 
   
 
-Varian 2
+VersiB
 
 ![PCB1](./assets/PCB1.png)
 
-- KICAD ->    [KICAD](kelasB\KICAD) 
+- KICAD ->     [VersiB](VersiB) 
 
-- Gerber ->  [PCB ELKA B-gerber.zip](kelasB\PCB ELKA B-gerber.zip) 
+- Gerber ->   [gerber.zip](VersiB\gerber.zip) 
 
   
 
