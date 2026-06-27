@@ -535,7 +535,7 @@ Varian 2
 
 ![PCB1](./assets/PCB1.png)
 
-- KICAD ->   [KICAD](kelasB\KICAD) 
+- KICAD ->    [KICAD](kelasB\KICAD) 
 
 - Gerber ->  [PCB ELKA B-gerber.zip](kelasB\PCB ELKA B-gerber.zip) 
 
