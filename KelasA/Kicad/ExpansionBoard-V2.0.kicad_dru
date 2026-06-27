@@ -1,0 +1,37 @@
+(version 1)
+
+(rule "Default clearance"
+  (constraint clearance (min 0.2mm))
+)
+
+(rule "Edge clearance"
+  (constraint edge_clearance (min 0.3mm))
+)
+
+(rule "Track width signal"
+  (condition "A.NetClass == 'Default'")
+  (constraint track_width (min 0.25mm))
+)
+
+(rule "Track width power"
+  (condition "A.NetClass == 'Power'")
+  (constraint track_width (min 0.5mm))
+)
+
+(rule "Via diameter signal"
+  (condition "A.NetClass == 'Default'")
+  (constraint via_diameter (min 0.6mm))
+)
+
+(rule "Via diameter power"
+  (condition "A.NetClass == 'Power'")
+  (constraint via_diameter (min 0.8mm))
+)
+
+(rule "Via drill (hole)"
+  (constraint hole_size (min 0.3mm))
+)
+
+(rule "Annular ring"
+  (constraint annular_width (min 0.15mm))
+)
