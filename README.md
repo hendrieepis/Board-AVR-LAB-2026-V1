@@ -523,7 +523,9 @@ Setelah submit, **tag Gerber file** dengan versi (misal `ExpansionBoard-V1.0-Ger
 
 VersiA
 
-![Top3D](./assets/Top3D.png)
+![image-20260628094927034](./assets/image-20260628094927034.png)
+
+
 
 - KICAD ->    [versiA](versiA) 
 
@@ -533,7 +535,7 @@ VersiA
 
 VersiB
 
-![image-20260628081357848](./assets/image-20260628081357848.png)
+![image-20260628093950124](./assets/image-20260628093950124.png)
 
 - KICAD ->     [VersiB](VersiB) 
 
