@@ -3548,7 +3548,7 @@
 		(descr "Potentiometer, vertical, Bourns 3386P, https://www.bourns.com/pdfs/3386.pdf")
 		(tags "Potentiometer vertical Bourns 3386P")
 		(property "Reference" "RV2"
-			(at 5.765 -2.59 180)
+			(at 5.765 -2.59 0)
 			(layer "F.SilkS")
 			(uuid "6e3a2636-f14a-4d2c-8ed9-482e6f938595")
 			(effects
@@ -3780,7 +3780,7 @@
 			(uuid "0d214bed-5229-41ee-964b-cb90cb4c5999")
 		)
 		(embedded_fonts no)
-		(model "D:/mikro/Mikrokontroler/3386P-1-104TLF.STEP"
+		(model "${KIPRJMOD}/3386P-1-104TLF.STEP"
 			(offset
 				(xyz 0 2.5 0)
 			)
@@ -5584,9 +5584,9 @@
 		(descr "Potentiometer, vertical, Bourns 3386P, https://www.bourns.com/pdfs/3386.pdf")
 		(tags "Potentiometer vertical Bourns 3386P")
 		(property "Reference" "RV1"
-			(at 5.765 -2.745 180)
+			(at 5.765 -2.745 0)
 			(layer "F.SilkS")
-			(uuid "bc3c35ab-cfe2-46b7-8622-f5611d1e6c2a")
+			(uuid "1434dec6-76b3-434e-b43c-4fe90ce9405a")
 			(effects
 				(font
 					(size 1 1)
@@ -5597,7 +5597,7 @@
 		(property "Value" "10K"
 			(at -3.66 -2.64 0)
 			(layer "F.Fab")
-			(uuid "76bd4bda-3ada-4094-8893-337d630c8465")
+			(uuid "93a29ae1-2573-42f5-9f76-69e23295be28")
 			(effects
 				(font
 					(size 1 1)
@@ -5609,7 +5609,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "606f7d60-5571-4217-8b25-ef1c4731b714")
+			(uuid "c43badf1-efe5-4d77-9758-a9b81f8902a6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5620,7 +5620,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "97b08ac3-bd11-43a0-8a15-f12409a3caef")
+			(uuid "c660c944-2943-4e3e-9604-39ee97705ff0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5816,7 +5816,7 @@
 			(uuid "ddae502c-e4fb-4353-a515-1bdd12432140")
 		)
 		(embedded_fonts no)
-		(model "D:/mikro/Mikrokontroler/3386P-1-104TLF.STEP"
+		(model "${KIPRJMOD}/3386P-1-104TLF.STEP"
 			(offset
 				(xyz 0 2.5 0)
 			)
@@ -8351,7 +8351,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr through_hole dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.25 1.5)
@@ -12577,7 +12577,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr through_hole dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.25 1.5)
@@ -16861,7 +16861,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr through_hole dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.25 1.5)

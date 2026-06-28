@@ -533,7 +533,7 @@ VersiA
 
 VersiB
 
-![PCB1](./assets/PCB1.png)
+![image-20260628081357848](./assets/image-20260628081357848.png)
 
 - KICAD ->     [VersiB](VersiB) 
 

@@ -8512,7 +8512,7 @@
 			(uuid "6a44a55c-6ae0-4d79-b4a1-52d3e48a7065")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "J1")
 					(unit 1)
@@ -8588,7 +8588,7 @@
 			(uuid "25f7f7e2-1fc6-41d8-a14b-2d2742e98c50")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR04")
 					(unit 1)
@@ -8664,7 +8664,7 @@
 			(uuid "fdd33dcf-399e-4ac6-99f5-9ccff615cf55")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR03")
 					(unit 1)
@@ -8739,7 +8739,7 @@
 			(uuid "87fd47b6-2ebb-4b03-a4f0-be8b5717bf68")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR05")
 					(unit 1)
@@ -8842,7 +8842,7 @@
 			(uuid "00a2e9f5-f40a-49ba-91e4-cbef19d3b42b")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "J5")
 					(unit 1)
@@ -8917,7 +8917,7 @@
 			(uuid "dcc7d892-ae5b-4d8f-ab19-e541f0cf0497")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR06")
 					(unit 1)
@@ -9013,7 +9013,7 @@
 			(uuid "1a0716cb-e60e-4a13-b94d-a22dce20bc7e")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "J2")
 					(unit 1)
@@ -9110,7 +9110,7 @@
 			(uuid "c0cfa2f9-a894-4c72-b71e-f8c87c0a0712")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "J6")
 					(unit 1)
@@ -9206,7 +9206,7 @@
 			(uuid "ace50a19-73ab-43fc-82ea-30961057d9e7")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "J3")
 					(unit 1)
@@ -9303,7 +9303,7 @@
 			(uuid "268fd867-700c-42f6-88f2-203eeb3b286a")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "J7")
 					(unit 1)
@@ -9485,7 +9485,7 @@
 			(uuid "04c8b4c3-2c61-4a98-aa71-c13eb3521ed9")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "J4")
 					(unit 1)
@@ -9560,7 +9560,7 @@
 			(uuid "a496220d-793d-4cc8-9a74-3ae385ccfba9")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR01")
 					(unit 1)
@@ -9635,7 +9635,7 @@
 			(uuid "5f768500-89d6-479e-8869-0f9364910e8f")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR07")
 					(unit 1)
@@ -9717,7 +9717,7 @@
 			(uuid "346b1cce-098e-4f87-b239-237b928eeebf")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "R6")
 					(unit 1)
@@ -9795,7 +9795,7 @@
 			(uuid "5cad90bf-0923-400b-a322-ffcaf65f450b")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR054")
 					(unit 1)
@@ -9873,7 +9873,7 @@
 			(uuid "f103d3fd-9768-4b92-bd7e-986e2f2d6a87")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR024")
 					(unit 1)
@@ -9951,7 +9951,7 @@
 			(uuid "5b463f47-12b2-4e2c-8009-a2e41ad1db92")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR013")
 					(unit 1)
@@ -10029,7 +10029,7 @@
 			(uuid "00fb0341-78d9-4461-9013-0c09324eb7d5")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR042")
 					(unit 1)
@@ -10107,7 +10107,7 @@
 			(uuid "022317d2-e768-4136-8640-5746ace452fa")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR044")
 					(unit 1)
@@ -10189,7 +10189,7 @@
 			(uuid "9a878b9b-fa80-456f-aa63-520bdcd27f64")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "C2")
 					(unit 1)
@@ -10267,7 +10267,7 @@
 			(uuid "0076480a-a8f1-465f-8e90-683e4d4d0985")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR058")
 					(unit 1)
@@ -10349,7 +10349,7 @@
 			(uuid "b42654ae-1a31-482f-b5d4-95360fdcf58c")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "C1")
 					(unit 1)
@@ -10431,7 +10431,7 @@
 			(uuid "f55381d9-8a17-4513-a91a-aa9f89d95021")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "R16")
 					(unit 1)
@@ -10509,7 +10509,7 @@
 			(uuid "a0804727-326c-4476-b1d7-9e840be51381")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR030")
 					(unit 1)
@@ -10602,7 +10602,7 @@
 			(uuid "b3208445-65cd-440e-8dd8-2d6c49c72552")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "D1")
 					(unit 1)
@@ -10690,7 +10690,7 @@
 			(uuid "a6443ba6-036c-4c8f-ba36-3c284065d189")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "Q3")
 					(unit 1)
@@ -10772,7 +10772,7 @@
 			(uuid "0dd019d2-06c6-4c1d-8fff-21223b8b0a6b")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "SW1")
 					(unit 1)
@@ -10865,7 +10865,7 @@
 			(uuid "c83f57a5-2fbe-4728-84cf-9919880e5479")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "D3")
 					(unit 1)
@@ -10943,7 +10943,7 @@
 			(uuid "a0b35047-616c-49cd-b784-d342202fa94c")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR050")
 					(unit 1)
@@ -11021,7 +11021,7 @@
 			(uuid "f5270abd-95ba-4f18-84bc-7395edf77d75")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR040")
 					(unit 1)
@@ -11109,7 +11109,7 @@
 			(uuid "346b0ffc-912d-426e-b350-d4a8346fb708")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "Q10")
 					(unit 1)
@@ -11187,7 +11187,7 @@
 			(uuid "b8035b9e-62dc-4cb1-8af4-275ecac36eda")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR055")
 					(unit 1)
@@ -11269,7 +11269,7 @@
 			(uuid "28243faa-c76d-42f9-b755-9375bd081d61")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "R7")
 					(unit 1)
@@ -11362,7 +11362,7 @@
 			(uuid "68d59a45-649e-427a-a453-75f0a957fa6a")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "D7")
 					(unit 1)
@@ -11480,7 +11480,7 @@
 			(uuid "89838a5c-b60a-441a-b8de-6bb644d1f9de")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "RV2")
 					(unit 1)
@@ -11562,7 +11562,7 @@
 			(uuid "acc70d64-cd99-493e-b6bf-1b1c321beb23")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "R2")
 					(unit 1)
@@ -11640,7 +11640,7 @@
 			(uuid "d76732fa-804e-472b-88d3-05f1b2e5e56f")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR018")
 					(unit 1)
@@ -11718,7 +11718,7 @@
 			(uuid "d678b891-3504-4bc0-849d-d494fc6f568b")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR036")
 					(unit 1)
@@ -11796,7 +11796,7 @@
 			(uuid "9929d26f-7a9e-4c37-aef4-f3b2515c45ee")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR021")
 					(unit 1)
@@ -11874,7 +11874,7 @@
 			(uuid "25c1691a-b39e-4579-a4f0-5e10bcc325c5")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR028")
 					(unit 1)
@@ -11952,7 +11952,7 @@
 			(uuid "9fb21cc5-2f73-4191-a624-48596e445cb9")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR037")
 					(unit 1)
@@ -12030,7 +12030,7 @@
 			(uuid "6add7591-c4cd-439a-ac41-b303820f97c2")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR012")
 					(unit 1)
@@ -12108,7 +12108,7 @@
 			(uuid "8f821bab-d4bf-4adf-abae-c8c514a0773d")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR019")
 					(unit 1)
@@ -12190,7 +12190,7 @@
 			(uuid "354a6d03-f528-4a1d-b822-aba56fc7ec88")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "R22")
 					(unit 1)
@@ -12272,7 +12272,7 @@
 			(uuid "14ddbd81-a118-4070-8bd5-0ffbaef6d521")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "R13")
 					(unit 1)
@@ -12350,7 +12350,7 @@
 			(uuid "69a187b0-7f91-4e7c-b1d2-a237d2b6ab16")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR029")
 					(unit 1)
@@ -12432,7 +12432,7 @@
 			(uuid "248588ca-2ba4-4c88-a955-03c207c6b510")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "SW4")
 					(unit 1)
@@ -12514,7 +12514,7 @@
 			(uuid "9938b9dc-028a-4fb4-ab82-f6a8e902de42")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "R18")
 					(unit 1)
@@ -12596,7 +12596,7 @@
 			(uuid "90617b49-c366-427a-a597-cf50b2c5cdb2")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "R0")
 					(unit 1)
@@ -12674,7 +12674,7 @@
 			(uuid "07db33cc-46e2-41eb-bb0b-879cefce6eb0")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR043")
 					(unit 1)
@@ -12762,7 +12762,7 @@
 			(uuid "7ca61434-146c-4be5-8732-759468f5e8e4")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "J11")
 					(unit 1)
@@ -12840,7 +12840,7 @@
 			(uuid "a31b6d79-58a2-4958-b9bb-d79d3c3cb2f7")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR031")
 					(unit 1)
@@ -12928,7 +12928,7 @@
 			(uuid "4b52fc07-3cf3-4740-bd8f-be400c7db56f")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "Q7")
 					(unit 1)
@@ -13006,7 +13006,7 @@
 			(uuid "df3335f1-2301-4092-9520-116b8b2416e8")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR038")
 					(unit 1)
@@ -13088,7 +13088,7 @@
 			(uuid "3c6fd3e5-084c-439d-8ddb-b2bc4e811aa4")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "R3")
 					(unit 1)
@@ -13170,7 +13170,7 @@
 			(uuid "cab32994-9255-4391-be85-e9a1720f0efb")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "R11")
 					(unit 1)
@@ -13248,7 +13248,7 @@
 			(uuid "a2db4a2e-7929-4333-bfd3-f0391be33c48")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR057")
 					(unit 1)
@@ -13330,7 +13330,7 @@
 			(uuid "902c82b5-f110-4d6d-aad0-e8ce70fbfb68")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "R24")
 					(unit 1)
@@ -13408,7 +13408,7 @@
 			(uuid "2c6cb013-4bf3-4903-ba3d-ca9d5f753d6f")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR053")
 					(unit 1)
@@ -13486,7 +13486,7 @@
 			(uuid "4acf5fd3-4b72-405e-a439-da72a8080043")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR059")
 					(unit 1)
@@ -13564,7 +13564,7 @@
 			(uuid "6cc80c7b-2544-4528-9b3f-599c87844c35")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR052")
 					(unit 1)
@@ -13642,7 +13642,7 @@
 			(uuid "6bd03990-0c6f-47aa-a191-9be4dd5032ee")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR02")
 					(unit 1)
@@ -13730,7 +13730,7 @@
 			(uuid "01630cd8-a8d3-4dcb-8c89-432adc52ef78")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "J12")
 					(unit 1)
@@ -13812,7 +13812,7 @@
 			(uuid "8223b08f-bb34-4c6b-9c81-9c0a7c39868d")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "R19")
 					(unit 1)
@@ -13890,7 +13890,7 @@
 			(uuid "93256a93-cb15-406d-aa72-21b5741fe824")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR056")
 					(unit 1)
@@ -13968,7 +13968,7 @@
 			(uuid "e4595d14-9e94-4416-9491-27adb48659b7")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR017")
 					(unit 1)
@@ -14050,7 +14050,7 @@
 			(uuid "2e5d3b2f-f9a0-4edf-9393-bbd5576bd7a8")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "R4")
 					(unit 1)
@@ -14128,7 +14128,7 @@
 			(uuid "372ce687-2fee-4884-84bd-2355b2e73d23")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR025")
 					(unit 1)
@@ -14221,7 +14221,7 @@
 			(uuid "f83cae4a-68e2-4a76-b4a1-5c87bf75496f")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "DB1")
 					(unit 1)
@@ -14299,7 +14299,7 @@
 			(uuid "47263d2d-d8bf-4bc0-9a7f-2b524f69674e")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR09")
 					(unit 1)
@@ -14387,7 +14387,7 @@
 			(uuid "a8891394-ab52-4a68-82a5-f2ecffbab962")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "Q9")
 					(unit 1)
@@ -14480,7 +14480,7 @@
 			(uuid "691d7179-3174-4ca5-988c-f294a2bdd565")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "D5")
 					(unit 1)
@@ -14558,7 +14558,7 @@
 			(uuid "757c60a0-9b28-4c43-babd-02db98c75f41")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR016")
 					(unit 1)
@@ -14640,7 +14640,7 @@
 			(uuid "7b790e9f-3630-4294-9e6b-09c0a0d52aec")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "R17")
 					(unit 1)
@@ -14722,7 +14722,7 @@
 			(uuid "6a2b5277-b991-4adc-9aed-8deae885cd70")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "R21")
 					(unit 1)
@@ -14804,7 +14804,7 @@
 			(uuid "3865160e-033e-41b5-bf93-3b5ad942bdee")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "C4")
 					(unit 1)
@@ -14882,7 +14882,7 @@
 			(uuid "43465c0c-3b56-4b4f-8dcc-a1659e1eebff")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR015")
 					(unit 1)
@@ -14960,7 +14960,7 @@
 			(uuid "44abf164-0741-4114-b237-fe8ea8be2208")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR061")
 					(unit 1)
@@ -15038,7 +15038,7 @@
 			(uuid "9d69f855-3d18-4fd8-b9b9-e43bab1527ef")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR020")
 					(unit 1)
@@ -15120,7 +15120,7 @@
 			(uuid "6c0d019e-2beb-401b-9ad5-111338835816")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "R9")
 					(unit 1)
@@ -15208,7 +15208,7 @@
 			(uuid "1488f33f-64ac-4a76-ab35-cc6ec057f8b4")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "Q0")
 					(unit 1)
@@ -15290,7 +15290,7 @@
 			(uuid "0115a46c-6db3-43cd-a5ed-2087ae31dddf")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "R27")
 					(unit 1)
@@ -15368,7 +15368,7 @@
 			(uuid "0ca73267-ea0f-4840-a4bb-55c753b178c1")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR033")
 					(unit 1)
@@ -15450,7 +15450,7 @@
 			(uuid "a613afe0-9ac6-41ac-9fd9-9afff5bbf87e")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "R10")
 					(unit 1)
@@ -15532,7 +15532,7 @@
 			(uuid "f0ff0d5a-fc37-42c2-aaef-419ef4b71f2b")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "SW2")
 					(unit 1)
@@ -15610,7 +15610,7 @@
 			(uuid "943b133d-e667-4057-834d-3f64e46cb232")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR046")
 					(unit 1)
@@ -15703,7 +15703,7 @@
 			(uuid "bfdacc3e-c1d4-48bc-877f-ab94520ffdbd")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "D0")
 					(unit 1)
@@ -15781,7 +15781,7 @@
 			(uuid "e1153b29-71d1-416c-a7c0-11fab8dd8176")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR039")
 					(unit 1)
@@ -15859,7 +15859,7 @@
 			(uuid "0ead528e-bea4-42a4-a589-7a7d2739cd25")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR026")
 					(unit 1)
@@ -15937,7 +15937,7 @@
 			(uuid "81cb426d-9f15-4616-a35e-f08999a91bf5")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR022")
 					(unit 1)
@@ -16019,7 +16019,7 @@
 			(uuid "6d8724f6-b97c-4d86-8653-983d8c013c0f")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "R15")
 					(unit 1)
@@ -16107,7 +16107,7 @@
 			(uuid "794d52c3-15d7-4ddb-9662-d3935db3cf1c")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "Q5")
 					(unit 1)
@@ -16189,7 +16189,7 @@
 			(uuid "43aa2a19-edb3-43d6-b8dc-0081a97413af")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "R20")
 					(unit 1)
@@ -16267,7 +16267,7 @@
 			(uuid "1fbd329f-bd4b-4b76-ac48-14d93c0a63fd")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR051")
 					(unit 1)
@@ -16360,7 +16360,7 @@
 			(uuid "2a8c80b8-7e13-46b4-a034-114eb69757b7")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "D4")
 					(unit 1)
@@ -16478,7 +16478,7 @@
 			(uuid "f7d24b9f-dbfd-4eea-8e8b-3cbdf96c49ff")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "RV1")
 					(unit 1)
@@ -16560,7 +16560,7 @@
 			(uuid "6358dae7-319b-4e2a-a443-59a17dec811d")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "R23")
 					(unit 1)
@@ -16638,7 +16638,7 @@
 			(uuid "dce213fc-7473-4b36-8df7-0161cc6ab446")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR048")
 					(unit 1)
@@ -16720,7 +16720,7 @@
 			(uuid "fafa2b9a-5a58-4293-a3c6-b6d5de80a7b1")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "R25")
 					(unit 1)
@@ -16798,7 +16798,7 @@
 			(uuid "fe5460ca-2336-44bb-a571-91effaaf0643")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR023")
 					(unit 1)
@@ -16876,7 +16876,7 @@
 			(uuid "c8607555-fdbc-48f8-a41d-4d745da4ff62")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR032")
 					(unit 1)
@@ -16969,7 +16969,7 @@
 			(uuid "e0b0edcf-49cb-42e2-97e6-03a6ba2027ca")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "D2")
 					(unit 1)
@@ -17047,7 +17047,7 @@
 			(uuid "44d8bac3-381d-4ed4-b565-e9f28c7d25a9")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR064")
 					(unit 1)
@@ -17141,7 +17141,7 @@
 			(uuid "6142ca8e-3951-427d-95f9-7e8d79148840")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "J9")
 					(unit 1)
@@ -17219,7 +17219,7 @@
 			(uuid "96712ff8-f628-417c-ae1a-c571632aabab")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR062")
 					(unit 1)
@@ -17301,7 +17301,7 @@
 			(uuid "cac0278f-fc4f-47b8-989b-cca2b67375b9")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "C3")
 					(unit 1)
@@ -17379,7 +17379,7 @@
 			(uuid "9e5f34d8-5c99-4adf-b87e-6d5becae5b45")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR035")
 					(unit 1)
@@ -17461,7 +17461,7 @@
 			(uuid "88eae7ae-a424-427b-a9a5-da8572c2c7f5")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "R29")
 					(unit 1)
@@ -17539,7 +17539,7 @@
 			(uuid "eabe6007-3a49-45b9-81ad-00541cce621f")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR014")
 					(unit 1)
@@ -17621,7 +17621,7 @@
 			(uuid "a57f0922-1aa7-4248-99a1-a692e8acfa12")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "R5")
 					(unit 1)
@@ -17699,7 +17699,7 @@
 			(uuid "0f769268-caba-411d-8db3-7aeb9c65fce9")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR08")
 					(unit 1)
@@ -17781,7 +17781,7 @@
 			(uuid "dd709c2e-170a-4cdf-9e7b-1bb52b780fdf")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "BZ1")
 					(unit 1)
@@ -17863,7 +17863,7 @@
 			(uuid "78ba7367-a72d-4b03-9c24-21c102f7b869")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "R26")
 					(unit 1)
@@ -17894,7 +17894,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1K"
+		(property "Value" "100"
 			(at 274.32 35.5599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17945,7 +17945,7 @@
 			(uuid "8b793e4b-973e-4f02-9f88-f86560f82466")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "R31")
 					(unit 1)
@@ -18027,7 +18027,7 @@
 			(uuid "afb23b5b-fa87-450b-a74c-260c5b9ed415")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "R1")
 					(unit 1)
@@ -18105,7 +18105,7 @@
 			(uuid "6720191e-ef38-40f0-9bc3-bf98865ea7fc")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR041")
 					(unit 1)
@@ -18183,7 +18183,7 @@
 			(uuid "47119f50-73d3-4814-b820-7565aed9b523")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR027")
 					(unit 1)
@@ -18265,7 +18265,7 @@
 			(uuid "cf481af8-d7c4-4e30-9844-5f4b8d7cad21")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "SW3")
 					(unit 1)
@@ -18348,7 +18348,7 @@
 			(uuid "1b4c787e-2f71-4b79-9a5b-611af8984ffc")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "R14")
 					(unit 1)
@@ -18436,7 +18436,7 @@
 			(uuid "77db4e10-9a88-42a1-aca6-0ce3851c5691")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "Q1")
 					(unit 1)
@@ -18529,7 +18529,7 @@
 			(uuid "64441001-8fc1-4aab-82e3-43924f637b2d")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "DA1")
 					(unit 1)
@@ -18611,7 +18611,7 @@
 			(uuid "df835555-58cf-436e-bb24-3f7008cf7d79")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "R30")
 					(unit 1)
@@ -18705,7 +18705,7 @@
 			(uuid "f40d46bc-e72d-4500-9bbe-9d50526d12b8")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "J8")
 					(unit 1)
@@ -18783,7 +18783,7 @@
 			(uuid "249eb8bd-7c5d-4c01-b644-5ece6176b4fb")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR060")
 					(unit 1)
@@ -18871,7 +18871,7 @@
 			(uuid "68f42447-2b5c-4f4c-b425-27874d2dcfb2")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "Q4")
 					(unit 1)
@@ -18959,7 +18959,7 @@
 			(uuid "6c862dde-d757-45b9-a974-6224d2582fa7")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "Q2")
 					(unit 1)
@@ -19037,7 +19037,7 @@
 			(uuid "0e27b410-aba8-4d06-8f02-baed2570ff0c")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR010")
 					(unit 1)
@@ -19115,7 +19115,7 @@
 			(uuid "8d87485d-eab2-4d7e-9d3d-4bb6e028b15f")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR034")
 					(unit 1)
@@ -19197,7 +19197,7 @@
 			(uuid "8c82a99f-1134-459a-9ff7-370bb9a81bfd")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "R8")
 					(unit 1)
@@ -19275,7 +19275,7 @@
 			(uuid "0cc00356-57ce-46dd-b55e-b6e6a5eefa99")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR049")
 					(unit 1)
@@ -19363,7 +19363,7 @@
 			(uuid "6d5a78b5-3d41-430f-bde1-759e4b4bf3d8")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "J10")
 					(unit 1)
@@ -19451,7 +19451,7 @@
 			(uuid "b75bd510-20f7-4388-ace4-3331c05ddddb")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "Q8")
 					(unit 1)
@@ -19533,7 +19533,7 @@
 			(uuid "4a002622-2471-4230-b8e0-6cbf014f791d")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "R12")
 					(unit 1)
@@ -19621,7 +19621,7 @@
 			(uuid "7d522de2-dbc9-4f83-9a0f-a2ad28bc0c58")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "Q6")
 					(unit 1)
@@ -19703,7 +19703,7 @@
 			(uuid "d1ed45f3-16a0-4ba1-9d44-d1761d3b8c4b")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "R28")
 					(unit 1)
@@ -19781,7 +19781,7 @@
 			(uuid "8d684841-bd0e-4b17-aaa1-477702ab0447")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR045")
 					(unit 1)
@@ -19859,7 +19859,7 @@
 			(uuid "4f18624c-5fef-4396-b486-f80dac679ea7")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR047")
 					(unit 1)
@@ -19937,7 +19937,7 @@
 			(uuid "89d38814-7231-4515-8db0-c7ada30e9e6d")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR011")
 					(unit 1)
@@ -20030,7 +20030,7 @@
 			(uuid "e2e6e8d2-c71d-4940-980e-6bef05dfce4c")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "D6")
 					(unit 1)
@@ -20108,7 +20108,7 @@
 			(uuid "0f51d372-5a93-444b-9416-34ffdc331c1e")
 		)
 		(instances
-			(project "ExpansionBoard-V1.0"
+			(project "ExpansionBoard-V2.0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR063")
 					(unit 1)
