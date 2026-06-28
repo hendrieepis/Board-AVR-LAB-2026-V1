@@ -4507,6 +4507,12 @@
 		(uuid "14eaa07b-3c96-4283-8c77-fcd2cb2c53ea")
 	)
 	(junction
+		(at 261.62 44.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1f4a7fb4-60cd-436d-98c7-15ae86f92212")
+	)
+	(junction
 		(at 102.87 60.96)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4621,12 +4627,6 @@
 		(uuid "c6975266-58eb-4b1c-b6fd-30f9c489e4ca")
 	)
 	(junction
-		(at 262.89 44.45)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e570a90e-73c3-4503-beef-404aa4e42d0c")
-	)
-	(junction
 		(at 102.87 46.99)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4676,16 +4676,6 @@
 	)
 	(wire
 		(pts
-			(xy 262.89 44.45) (xy 264.16 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "026adf17-73ff-45b4-b99e-67945cb8f90e")
-	)
-	(wire
-		(pts
 			(xy 78.74 43.18) (xy 78.74 45.72)
 		)
 		(stroke
@@ -4696,7 +4686,7 @@
 	)
 	(wire
 		(pts
-			(xy 262.89 54.61) (xy 262.89 57.15)
+			(xy 261.62 54.61) (xy 261.62 55.88)
 		)
 		(stroke
 			(width 0)
@@ -4936,7 +4926,7 @@
 	)
 	(wire
 		(pts
-			(xy 250.19 44.45) (xy 262.89 44.45)
+			(xy 250.19 44.45) (xy 261.62 44.45)
 		)
 		(stroke
 			(width 0)
@@ -5366,7 +5356,7 @@
 	)
 	(wire
 		(pts
-			(xy 262.89 44.45) (xy 262.89 46.99)
+			(xy 261.62 44.45) (xy 261.62 46.99)
 		)
 		(stroke
 			(width 0)
@@ -6076,6 +6066,16 @@
 	)
 	(wire
 		(pts
+			(xy 261.62 55.88) (xy 262.89 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "855937d2-c3c0-429c-8eec-adc39d00d4db")
+	)
+	(wire
+		(pts
 			(xy 238.76 34.29) (xy 238.76 35.56)
 		)
 		(stroke
@@ -6756,6 +6756,16 @@
 	)
 	(wire
 		(pts
+			(xy 262.89 55.88) (xy 262.89 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c7fca047-660a-4ede-8b21-b10ab758b57a")
+	)
+	(wire
+		(pts
 			(xy 44.45 109.22) (xy 44.45 119.38)
 		)
 		(stroke
@@ -7113,6 +7123,16 @@
 			(type default)
 		)
 		(uuid "eb6e0f31-8ebb-490e-9188-f7b6d6d75e05")
+	)
+	(wire
+		(pts
+			(xy 261.62 44.45) (xy 264.16 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eb9271f4-93cd-474c-a02f-1e6f12a9c79f")
 	)
 	(wire
 		(pts
@@ -17389,7 +17409,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 262.89 50.8 0)
+		(at 261.62 50.8 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -17400,7 +17420,7 @@
 		(fields_autoplaced yes)
 		(uuid "c3add682-7d52-4e4a-b273-40c8342afdec")
 		(property "Reference" "R29"
-			(at 265.43 49.5299 0)
+			(at 264.16 49.5299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17411,7 +17431,7 @@
 			)
 		)
 		(property "Value" "1M"
-			(at 265.43 52.0699 0)
+			(at 264.16 52.0699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17422,7 +17442,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 261.112 50.8 90)
+			(at 259.842 50.8 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17433,7 +17453,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 262.89 50.8 0)
+			(at 261.62 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17444,7 +17464,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 262.89 50.8 0)
+			(at 261.62 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
