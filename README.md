@@ -529,7 +529,7 @@ VersiA
 
 - KICAD ->    [versiA](versiA) 
 
-- Gerver->  [gerber.zip](versiA\gerber.zip) 
+- Gerver->  https://github.com/hendrieepis/Board-AVR-LAB-2026-V1/blob/master/versiA/gerber.zip
 
   
 
@@ -539,7 +539,7 @@ VersiB
 
 - KICAD ->     [VersiB](VersiB) 
 
-- Gerber ->   [gerber.zip](VersiB\gerber.zip) 
+- Gerber ->   https://github.com/hendrieepis/Board-AVR-LAB-2026-V1/blob/master/VersiB/gerber.zip
 
   
 
